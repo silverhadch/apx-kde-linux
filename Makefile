@@ -1,5 +1,5 @@
 PREFIX := /usr
-DESTDIR := /
+DESTDIR := ~/kde
 BINARY_NAME := apx
 
 GO := go
